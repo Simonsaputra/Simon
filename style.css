@@ -1,5 +1,5 @@
 body {
-  background-image:url(https://www.kibrispdr.org/data/13/background-ppt-gif-bergerak-30.gif);
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYdLhKXoRCyRk2P72NAlmNlPkNvjneX7pNc1uZNG_tnfEYjXeSPpuAKTUKtjczRM00HyQ&usqp=CAU);
   font-family: "Open Sans", Arial;
   font-size: 17px;
   padding: 15px;
@@ -63,8 +63,9 @@ a {
   /* background-image:url(); */
   border-radius: 10px;
   border: 1px solid black;
-  background-image: url(https://media.tenor.com/9CKsZIsHkVcAAAAd/alone.gif);
+  background-image: url(https://cdn.alsgp0.fds.api.mi-img.com/middle.community.micommunityth.bkt/5b6f652def580797067d5110f3f6ee2b);
   background-position: center;
+  background-repeat: repeat;
 }
 
 .content-header {
